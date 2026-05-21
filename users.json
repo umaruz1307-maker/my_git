@@ -1,0 +1,9 @@
+{
+    "admin": {
+        "password": "123",
+        "role": "admin",
+        "balance": 1010.0,
+        "is_blocked": false,
+        "block_reason": ""
+    }
+}
